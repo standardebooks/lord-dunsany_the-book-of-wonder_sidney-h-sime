@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-06T01:51:19Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">The Book of Wonder</dc:title>
+		<meta property="file-as" refines="#title">Book of Wonder, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Chronicle of Little Adventures at the Edge of the World</dc:title>
+		<meta property="file-as" refines="#subtitle">Chronicle of Little Adventures at the Edge of the World, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Book of Wonder: A Chronicle of Little Adventures at the Edge of the World</dc:title>
+		<meta property="file-as" refines="#fulltitle">Book of Wonder, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/17004465</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A collection of fantastical short stories.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Book of Wonder&lt;/i&gt; is one of Lord Dunsany&amp;rsquo;s many collections of fantasy short stories.  While many of his collections were illustrated, this particular one is different&amp;mdash;the illustrations were completed &lt;em&gt;first&lt;/em&gt;.  Dunsany then used the illustrations as inspirations for the stories around them.&lt;/p&gt;
+			&lt;p&gt;This collection features fourteen short stories, all of them whimsical, imaginative, and deeply strange.  Dunsany writes stories that don&amp;rsquo;t always have a happy ending, and these are no exception&amp;mdash;though they&amp;rsquo;re written in an almost fairytale or allegorical style, they each have a melancholy, vengeful, or even mad edge to them.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/7477</dc:source>
+		<dc:source>https://archive.org/stream/bookofwonder00duns</dc:source>
+		<meta property="se:word-count">23051</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/The_Book_of_Wonder</meta>
+		<dc:creator id="author">Lord Dunsany</dc:creator>
+		<meta property="file-as" refines="#author">Dunsany</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edward John Moreton Drax Plunkett</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="illustrator">Sidney H. Sime</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Sime, Sidney H.</meta>
+		<meta property="se:name.person.full-name" refines="#illustrator">Sidney Herbert Sime</meta>
+		<meta property="se:url.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Sidney_Sime</meta>
+		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Ivan Aivazovsky</dc:contributor>
+		<meta property="file-as" refines="#artist">Aivazovsky, Ivan</meta>
+		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Константи́нович Айвазо́вский</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Aivazovsky</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Charles Bidwell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Bidwell, Charles</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/he-felt-as-a-morsel.jpg" id="he-felt-as-a-morsel.jpg" media-type="image/jpeg"/>
+		<item href="images/i-wish-i-knew-more-about-the-ways-of-queens.jpg" id="i-wish-i-knew-more-about-the-ways-of-queens.jpg" media-type="image/jpeg"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/the-city-of-never.jpg" id="the-city-of-never.jpg" media-type="image/jpeg"/>
+		<item href="images/the-coronation-of-mr-thomas-shap.jpg" id="the-coronation-of-mr-thomas-shap.jpg" media-type="image/jpeg"/>
+		<item href="images/the-edge-of-the-world.jpg" id="the-edge-of-the-world.jpg" media-type="image/jpeg"/>
+		<item href="images/the-house-of-the-sphinx.jpg" id="the-house-of-the-sphinx.jpg" media-type="image/jpeg"/>
+		<item href="images/the-lean-high-house-of-the-gnoles.jpg" id="the-lean-high-house-of-the-gnoles.jpg" media-type="image/jpeg"/>
+		<item href="images/the-ominous-cough.jpg" id="the-ominous-cough.jpg" media-type="image/jpeg"/>
+		<item href="images/there-the-gibbelins-lived-and-discreditably-fed.jpg" id="there-the-gibbelins-lived-and-discreditably-fed.jpg" media-type="image/jpeg"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="images/zretzoola.jpg" id="zretzoola.jpg" media-type="image/jpeg"/>
+		<item href="text/acknowledgments.xhtml" id="acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chu-bu-and-sheemish.xhtml" id="chu-bu-and-sheemish.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/distressing-tale-of-thangobrind-the-jeweller.xhtml" id="distressing-tale-of-thangobrind-the-jeweller.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-nuth-would-have-practised-his-art-upon-the-gnoles.xhtml" id="how-nuth-would-have-practised-his-art-upon-the-gnoles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-one-came-as-was-foretold-to-the-city-of-never.xhtml" id="how-one-came-as-was-foretold-to-the-city-of-never.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/miss-cubbidge-and-the-dragon-of-romance.xhtml" id="miss-cubbidge-and-the-dragon-of-romance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/probable-adventure-of-the-three-literary-men.xhtml" id="probable-adventure-of-the-three-literary-men.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bride-of-the-man-horse.xhtml" id="the-bride-of-the-man-horse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coronation-of-mr-thomas-shap.xhtml" id="the-coronation-of-mr-thomas-shap.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hoard-of-the-gibbelins.xhtml" id="the-hoard-of-the-gibbelins.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-house-of-the-sphinx.xhtml" id="the-house-of-the-sphinx.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-injudicious-prayers-of-pombo-the-idolater.xhtml" id="the-injudicious-prayers-of-pombo-the-idolater.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-loot-of-bombasharna.xhtml" id="the-loot-of-bombasharna.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-quest-of-the-queens-tears.xhtml" id="the-quest-of-the-queens-tears.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wonderful-window.xhtml" id="the-wonderful-window.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="acknowledgments.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-bride-of-the-man-horse.xhtml"/>
+		<itemref idref="distressing-tale-of-thangobrind-the-jeweller.xhtml"/>
+		<itemref idref="the-house-of-the-sphinx.xhtml"/>
+		<itemref idref="probable-adventure-of-the-three-literary-men.xhtml"/>
+		<itemref idref="the-injudicious-prayers-of-pombo-the-idolater.xhtml"/>
+		<itemref idref="the-loot-of-bombasharna.xhtml"/>
+		<itemref idref="miss-cubbidge-and-the-dragon-of-romance.xhtml"/>
+		<itemref idref="the-quest-of-the-queens-tears.xhtml"/>
+		<itemref idref="the-hoard-of-the-gibbelins.xhtml"/>
+		<itemref idref="how-nuth-would-have-practised-his-art-upon-the-gnoles.xhtml"/>
+		<itemref idref="how-one-came-as-was-foretold-to-the-city-of-never.xhtml"/>
+		<itemref idref="the-coronation-of-mr-thomas-shap.xhtml"/>
+		<itemref idref="chu-bu-and-sheemish.xhtml"/>
+		<itemref idref="the-wonderful-window.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="loi.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>

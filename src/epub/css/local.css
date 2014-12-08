@@ -1,0 +1,35 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+p[epub|type~="bridgehead"]{
+	font-style: italic;
+	hyphens: none;
+	margin: 2em 0;
+	text-align: center;
+	text-indent: 0;
+}
+
+figure{
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	margin: 0;
+	max-height: 100%;
+	text-align: center;
+}
+
+figure img{
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: .75em;
+}
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+}

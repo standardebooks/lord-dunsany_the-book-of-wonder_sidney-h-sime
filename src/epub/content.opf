@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-10-31T20:11:48Z</meta>
-		<meta property="se:revision-number">31</meta>
+		<meta property="dcterms:modified">2016-11-09T01:15:24Z</meta>
+		<meta property="se:revision-number">32</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,11 +57,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Sidney_Sime</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n92053281</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">Ivan Aivazovsky</dc:contributor>
-		<meta property="file-as" refines="#artist">Aivazovsky, Ivan</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Константи́нович Айвазо́вский</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Aivazovsky</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80103821</meta>
+		<dc:contributor id="artist">Style of Goya</dc:contributor>
+		<meta property="file-as" refines="#artist">Goya, Style of</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>

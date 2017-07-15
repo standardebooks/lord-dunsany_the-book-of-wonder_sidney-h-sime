@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
 	<title>The titlepage for the Standard Ebooks edition of The Book of Wonder, by Lord Dunsany. Illustrated by Sidney H. Sime</title>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE BOOK OF WONDER</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">LORD DUNSANY</text>
-	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="470">illustrated by</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="540">SIDNEY H. SIME</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE BOOK OF WONDER</text>
+	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">LORD DUNSANY</text>
+	<text style="font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="470">illustrated by</text>
+	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="540">SIDNEY H. SIME</text>
 </svg>

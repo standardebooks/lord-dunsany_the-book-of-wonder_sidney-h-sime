@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/the-book-of-wonder/sidney-h-sime</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-22T01:08:03Z</meta>
-		<meta property="se:revision-number">42</meta>
+		<meta property="dcterms:modified">2017-07-27T20:39:36Z</meta>
+		<meta property="se:revision-number">43</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,8 +33,8 @@
 		<dc:description id="description">A collection of fantastical short stories.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Book of Wonder&lt;/i&gt; is one of Lord Dunsany’s many collections of fantasy short stories.  While many of his collections were illustrated, this particular one is different—the illustrations were completed &lt;em&gt;first&lt;/em&gt;.  Dunsany then used the illustrations as inspirations for the stories around them.&lt;/p&gt;
-			&lt;p&gt;This collection features fourteen short stories, all of them whimsical, imaginative, and deeply strange.  Dunsany writes stories that don’t always have a happy ending, and these are no exception—though they’re written in an almost fairytale or allegorical style, they each have a melancholy, vengeful, or even mad edge to them.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Book of Wonder&lt;/i&gt; is one of Lord Dunsany’s many collections of fantasy short stories. While many of his collections were illustrated, this particular one is different—the illustrations were completed &lt;em&gt;first&lt;/em&gt;. Dunsany then used the illustrations as inspirations for the stories around them.&lt;/p&gt;
+			&lt;p&gt;This collection features fourteen short stories, all of them whimsical, imaginative, and deeply strange. Dunsany writes stories that don’t always have a happy ending, and these are no exception—though they’re written in an almost fairytale or allegorical style, they each have a melancholy, vengeful, or even mad edge to them.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>

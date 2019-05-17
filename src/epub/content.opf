@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Book of Wonder</dc:title>
 		<meta property="file-as" refines="#title">Book of Wonder, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,16 +37,15 @@
 		<meta property="file-as" refines="#fulltitle">Book of Wonder, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/17004465</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A collection of fantastical short stories.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Book of Wonder&lt;/i&gt; is one of Lord Dunsany’s many collections of fantasy short stories. While many of his collections were illustrated, this particular one is different—the illustrations were completed &lt;em&gt;first&lt;/em&gt;. Dunsany then used the illustrations as inspirations for the stories around them.&lt;/p&gt;
 			&lt;p&gt;This collection features fourteen short stories, all of them whimsical, imaginative, and deeply strange. Dunsany writes stories that don’t always have a happy ending, and these are no exception—though they’re written in an almost fairytale or allegorical style, they each have a melancholy, vengeful, or even mad edge to them.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7477</dc:source>
 		<dc:source>https://archive.org/details/bookofwonder00duns</dc:source>

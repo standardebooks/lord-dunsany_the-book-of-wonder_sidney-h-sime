@@ -41,6 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of fantastical short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Book of Wonder&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany’s&lt;/a&gt; many collections of fantasy short stories. While many of his collections were illustrated, this particular one is different—the illustrations were completed &lt;em&gt;first&lt;/em&gt;. Dunsany then used the illustrations as inspirations for the stories around them.&lt;/p&gt;

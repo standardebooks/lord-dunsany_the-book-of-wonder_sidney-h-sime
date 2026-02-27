@@ -67,6 +67,7 @@
 		<meta property="se:name.person.full-name" refines="#illustrator">Sidney Herbert Sime</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Sidney_Sime</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n92053281</meta>
+		<meta property="display-seq" refines="#illustrator">1</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Style of Goya</dc:contributor>
 		<meta property="file-as" refines="#artist">Goya, Style of</meta>
